@@ -6,7 +6,7 @@
 <div align="center" id="badges" >
   <code><a href="https://www.linkedin.com/in/brunda-dogiparthy/" title="LinkedIn Profile"><img width="22" src="Images/Linkedin.svg"> LinkedIn</a></code>
   <code><a href="https://www.hackerrank.com/brunda_dogipart1" title="HackerRank Profile"><img width="22" src="Images/hackerrank.png"> HackerRank</a></code>
-   <code><a href="https://www.kaggle.com/brundadogiparthy" title="Kaggle Profile"><img width="22" src="Images/Kaggle.svg"> HackerRank</a></code>
+   <code><a href="https://www.kaggle.com/brundadogiparthy" title="Kaggle Profile"><img width="22" src="Images/Kaggle.svg"> Kaggle</a></code>
 </div>
 <p align="left">
   I'm Brunda Dogiparthy, an ML enthusiast from Hyderabad!
