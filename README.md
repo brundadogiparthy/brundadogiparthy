@@ -1,7 +1,5 @@
-<img src="Images/hi me.png"/>
 
-<h1 align="center">
-<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg2YjZqZzF6YzNxbXdtMGp1bjlicXU1cm5sdG5rbWdrMXMycGtvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" width="600" >
+<img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg2YjZqZzF6YzNxbXdtMGp1bjlicXU1cm5sdG5rbWdrMXMycGtvNSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" height="300" width="600" align ="center" >
 </h1>
 <div align="center" id="badges" >
   <code><a href="https://www.linkedin.com/in/brunda-dogiparthy/" title="LinkedIn Profile"><img width="22" src="Images/Linkedin.svg"> LinkedIn</a></code>
